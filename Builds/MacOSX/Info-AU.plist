@@ -29,13 +29,13 @@
     <array>
       <dict>
         <key>name</key>
-        <string>yourcompany: SimpleEQ</string>
+        <string>MUS483: SimpleEQ</string>
         <key>description</key>
         <string>SimpleEQ</string>
         <key>factoryFunction</key>
         <string>SimpleEQAUFactory</string>
         <key>manufacturer</key>
-        <string>Manu</string>
+        <string>MU48</string>
         <key>type</key>
         <string>aufx</string>
         <key>subtype</key>
